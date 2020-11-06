@@ -13753,7 +13753,7 @@ button.bg-contrast:hover {
   border-radius: 0.2rem !important;
 }
 .rounded {
-  border-radius: 0.25rem !important;
+  border-radius: 5rem !important;
 }
 .rounded-top {
   border-top-left-radius: 0.25rem !important;
@@ -19757,6 +19757,9 @@ img.icon {
 }
 .icon-box {
   padding: 1rem;
+}
+.icon-box a {
+  color: white;
 }
 .icon-shape {
   position: relative;
